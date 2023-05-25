@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+li{
+  list-style-type: none;
+}
+a{
+   text-decoration: none;
+}
+/* navigation section */
+.navigation{
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
