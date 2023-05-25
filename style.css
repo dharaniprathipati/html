@@ -20,3 +20,39 @@ a{
     gap: 30px;
     align-items: center;
 }
+.nav_link li a:hover{
+ color: crimson;
+}
+.nav_but{
+    padding: 5px 5px;
+    border: 2px solid tomato;
+    border-radius: 15px;
+    background-color: azure;
+    color: cyan;
+    cursor: pointer;
+    box-shadow: 2px 3px 4px 3px rgb(155, 95, 214);
+}
+ .nav_but:hover{
+    background-color: blue;
+    color: blanchedalmond;
+ }
+.srv_links{
+    display: none;
+    position: fixed;
+    border: 2px solid brown;
+    padding: 20;
+    margin: 20px;
+}
+.nav_srv:hover .srv_links{
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
