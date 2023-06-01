@@ -66,6 +66,7 @@ font-family: verdan;
     font-size: 20px;
     color: rgba(245, 245, 245, 0.619);
 }
+/* about.us */
 /* key board */
 .grid{
     display: grid;
@@ -77,8 +78,6 @@ font-family: verdan;
     text-align: center;
     background-color:  pink;
     color: black;
-
-
 }
 .about{
     height: 8px;
@@ -157,21 +156,3 @@ font-family: verdan;
 .zero{
     grid-column: 20/22;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
