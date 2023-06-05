@@ -156,3 +156,7 @@ font-family: verdan;
 .zero{
     grid-column: 20/22;
 }
+
+.about-images img{
+    height: 300px;
+}
